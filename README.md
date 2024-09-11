@@ -1,6 +1,6 @@
 ## Project Overview
 
-**KafkaAspNetCoreSolution** is an example of integrating **ASP.NET Core Web API** with Apache **Kafka** for message streaming between microservices. The project demonstrates basic patterns for working with Kafka, including sending and receiving messages (Producer and Consumer) via a Web API. It also utilizes **Docker** for containerization and orchestration of services like Kafka, Zookeeper, and the ASP.NET Core application.
+**KafkaAspNetCore** is an example of integrating **ASP.NET Core Web API** with Apache **Kafka** for message streaming between microservices. The project demonstrates basic patterns for working with Kafka, including sending and receiving messages (Producer and Consumer) via a Web API. It also utilizes **Docker** for containerization and orchestration of services like Kafka, Zookeeper, and the ASP.NET Core application.
 
 ## Project Structure
 
